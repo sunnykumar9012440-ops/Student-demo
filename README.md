@@ -2,6 +2,4 @@
 This is My First Git Repository.
 <br>
 Author-Sunny Kumar
-<br>
-sunny
 
